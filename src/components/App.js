@@ -1,11 +1,25 @@
 import React from 'react';
 import { Route, Switch } from "react-router-dom";
-
+import Home from "./Home";
+import About from "./About";
+import BookStore from './BookStore';
+import NavBar from "./NavBar";
 
 function App() {
   return (
     <div>
-      <h1>Hi</h1>
+    <NavBar />
+      <Switch>
+        <Route exact path="/about">
+          <About />
+        </Route>
+        <Route exact path="/bookstore">
+          <BookStore />
+        </Route>
+        <Route exact path="/">
+          <Home />
+        </Route>
+      </Switch>
     </div>
   );
 }
