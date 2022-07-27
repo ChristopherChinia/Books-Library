@@ -4,7 +4,7 @@ import BookShelf from './BookShelf'
 
 const BookStore = () => {
     // useState hook to store book data
-    const [books, displayBooks]=useState([])
+    const [books, displayBooks]=useState([]);
 
     // useEffect hook to provide get accessability
     useEffect(() =>{
@@ -14,6 +14,8 @@ const BookStore = () => {
                 displayBooks(data);
       })
       },[]);
+
+
   return (
     <div className = "book-store">
     {books?.length>0 ?  
