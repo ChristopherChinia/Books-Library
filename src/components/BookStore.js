@@ -10,11 +10,11 @@ const BookStore = () => {
         fetch("http://localhost:8001/Books")
         .then((r) => r.json())
             .then((data) => {
-              console.log(data);
+                displayBooks(data);
       })
       },[]);
   return (
-    <>
+    <div className = "book-store">
     {books?.length>0 ?  
  (<div className="box-container">
  {books.map((book) =>(
@@ -29,7 +29,7 @@ const BookStore = () => {
            <h2>No books found</h2>
          </div>
          )}
-     </>
+     </div>
   )
 }
 

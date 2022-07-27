@@ -1,6 +1,7 @@
 import React from 'react'
 
-const BookShelf = () => {
+const BookShelf = ({ book }) => {
+    const { title, cover_image, releaseDate, author } = book;
   return (
     <>
     <div className="book-shelf">
