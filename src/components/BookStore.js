@@ -10,7 +10,7 @@ const BookStore = () => {
         fetch("http://localhost:8001/Books")
         .then((r) => r.json())
             .then((data) => {
-              displayBooks(data);
+              console.log(data);
       })
       },[]);
   return (
