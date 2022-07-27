@@ -6,6 +6,7 @@
       "title": "The 48 Laws of Power",
       "cover_image": "https://images-na.ssl-images-amazon.com/images/I/71aG+xDKSYL.jpg",
       "releaseDate": "1839",
+      "price": "$200.00",
       "summary":"Some laws teach the need for prudence (“Law 1: Never Outshine the Master”), others teach the value of confidence (“Law 28: Enter Action with Boldness”), and many recommend absolute self-preservation (“Law 15: Crush Your Enemy Totally”). Every law, though, has one thing in common: an interest in total domination. In a bold and arresting two-color package, The 48 Laws of Power is ideal whether your aim is conquest, self-defense, or simply to understand the rules of the game."
     },
     {
@@ -13,47 +14,54 @@
       "author": 1,
       "title": "Hard Times",
       "cover_image": "",
-      "pages": 300,
-      "releaseDate": "1854"
+      "releaseDate": "1854",
+      "price": "$200.00",
+      "summary":"Some laws teach the need for prudence (“Law 1: Never Outshine the Master”), others teach the value of confidence (“Law 28: Enter Action with Boldness”), and many recommend absolute self-preservation (“Law 15: Crush Your Enemy Totally”). Every law, though, has one thing in common: an interest in total domination. In a bold and arresting two-color package, The 48 Laws of Power is ideal whether your aim is conquest, self-defense, or simply to understand the rules of the game."
     },
     {
       "id": 3,
       "author": 3,
       "title": "Hamlet",
       "cover_image": "",
-      "releaseDate": "1603"
+      "releaseDate": "1603",
+      "price": "$200.00",
+      "summary":"Some laws teach the need for prudence (“Law 1: Never Outshine the Master”), others teach the value of confidence (“Law 28: Enter Action with Boldness”), and many recommend absolute self-preservation (“Law 15: Crush Your Enemy Totally”). Every law, though, has one thing in common: an interest in total domination. In a bold and arresting two-color package, The 48 Laws of Power is ideal whether your aim is conquest, self-defense, or simply to understand the rules of the game."
     },
     {
       "id": 4,
       "author": 2,
       "title": "IT",
       "cover_image": "",
-      "releaseDate": "2017"
+      "releaseDate": "2017",
+      "price": "$200.00",
+      "summary":"Some laws teach the need for prudence (“Law 1: Never Outshine the Master”), others teach the value of confidence (“Law 28: Enter Action with Boldness”), and many recommend absolute self-preservation (“Law 15: Crush Your Enemy Totally”). Every law, though, has one thing in common: an interest in total domination. In a bold and arresting two-color package, The 48 Laws of Power is ideal whether your aim is conquest, self-defense, or simply to understand the rules of the game."
     },
     {
       "id": 5,
       "author": 4,
       "title": "Norwegian Wood",
       "cover_image": "http://t1.gstatic.com/images?q=tbn:ANd9GcQvJJDi2mzwg9v_PlmKYL31gXIz0kvAObJak7DVFPcD_mJTIyec",
-      "releaseDate": "1987"
+      "releaseDate": "1987",
+      "price": "$200.00",
+      "summary":"Some laws teach the need for prudence (“Law 1: Never Outshine the Master”), others teach the value of confidence (“Law 28: Enter Action with Boldness”), and many recommend absolute self-preservation (“Law 15: Crush Your Enemy Totally”). Every law, though, has one thing in common: an interest in total domination. In a bold and arresting two-color package, The 48 Laws of Power is ideal whether your aim is conquest, self-defense, or simply to understand the rules of the game."
     },
     {
       "id": 6,
       "author": 4,
       "title": "Kafka on the Shore",
       "cover_image": "http://t0.gstatic.com/images?q=tbn:ANd9GcRHFU_j93PPsbQGqoaZJnHH6-Emk_sIxG823SkoRTL0nvdEP41f",
-      "pages": 505,
       "releaseDate": "2002",
-      "isbn": "op012"
+      "price": "$200.00",
+      "summary":"Some laws teach the need for prudence (“Law 1: Never Outshine the Master”), others teach the value of confidence (“Law 28: Enter Action with Boldness”), and many recommend absolute self-preservation (“Law 15: Crush Your Enemy Totally”). Every law, though, has one thing in common: an interest in total domination. In a bold and arresting two-color package, The 48 Laws of Power is ideal whether your aim is conquest, self-defense, or simply to understand the rules of the game."
     },
     {
       "id": 7,
       "author": 4,
       "title": "After Dark",
       "cover_image": "http://t3.gstatic.com/images?q=tbn:ANd9GcQBMNA8A19vQpNY4bkgadsLhiRUFqBKwKAA6ANrw8VEtOiPrYQJ",
-      "pages": 208,
       "releaseDate": "2004",
-      "isbn": "cv456"
+      "price": "$200.00",
+      "summary":"Some laws teach the need for prudence (“Law 1: Never Outshine the Master”), others teach the value of confidence (“Law 28: Enter Action with Boldness”), and many recommend absolute self-preservation (“Law 15: Crush Your Enemy Totally”). Every law, though, has one thing in common: an interest in total domination. In a bold and arresting two-color package, The 48 Laws of Power is ideal whether your aim is conquest, self-defense, or simply to understand the rules of the game."
     },
     {
       "id": 8,
@@ -62,7 +70,8 @@
       "cover_image": "http://t0.gstatic.com/images?q=tbn:ANd9GcTBQZSg-b2LFkLlt9fWndS1w8SONabDZBHf0dtdb3-bqcuKxduL",
       "pages": 928,
       "releaseDate": "2009",
-      "isbn": "al207"
+      "price": "$200.00",
+      "summary":"Some laws teach the need for prudence (“Law 1: Never Outshine the Master”), others teach the value of confidence (“Law 28: Enter Action with Boldness”), and many recommend absolute self-preservation (“Law 15: Crush Your Enemy Totally”). Every law, though, has one thing in common: an interest in total domination. In a bold and arresting two-color package, The 48 Laws of Power is ideal whether your aim is conquest, self-defense, or simply to understand the rules of the game."
     },
     {
       "id": 9,
@@ -70,6 +79,7 @@
       "title": "The 48 Laws of Power",
       "cover_image": "https://images-na.ssl-images-amazon.com/images/I/71aG+xDKSYL.jpg",
       "releaseDate": "1839",
+      "price": "$200.00",
       "summary":"Some laws teach the need for prudence (“Law 1: Never Outshine the Master”), others teach the value of confidence (“Law 28: Enter Action with Boldness”), and many recommend absolute self-preservation (“Law 15: Crush Your Enemy Totally”). Every law, though, has one thing in common: an interest in total domination. In a bold and arresting two-color package, The 48 Laws of Power is ideal whether your aim is conquest, self-defense, or simply to understand the rules of the game."
     },
     {
@@ -78,6 +88,7 @@
       "title": "The 48 Laws of Power",
       "cover_image": "https://images-na.ssl-images-amazon.com/images/I/71aG+xDKSYL.jpg",
       "releaseDate": "1839",
+      "price": "$200.00",
       "summary":"Some laws teach the need for prudence (“Law 1: Never Outshine the Master”), others teach the value of confidence (“Law 28: Enter Action with Boldness”), and many recommend absolute self-preservation (“Law 15: Crush Your Enemy Totally”). Every law, though, has one thing in common: an interest in total domination. In a bold and arresting two-color package, The 48 Laws of Power is ideal whether your aim is conquest, self-defense, or simply to understand the rules of the game."
     },
     {
@@ -86,6 +97,7 @@
       "title": "The 48 Laws of Power",
       "cover_image": "https://images-na.ssl-images-amazon.com/images/I/71aG+xDKSYL.jpg",
       "releaseDate": "1839",
+      "price": "$200.00",
       "summary":"Some laws teach the need for prudence (“Law 1: Never Outshine the Master”), others teach the value of confidence (“Law 28: Enter Action with Boldness”), and many recommend absolute self-preservation (“Law 15: Crush Your Enemy Totally”). Every law, though, has one thing in common: an interest in total domination. In a bold and arresting two-color package, The 48 Laws of Power is ideal whether your aim is conquest, self-defense, or simply to understand the rules of the game."
     },
     {
@@ -102,6 +114,7 @@
       "title": "The 48 Laws of Power",
       "cover_image": "https://images-na.ssl-images-amazon.com/images/I/71aG+xDKSYL.jpg",
       "releaseDate": "1839",
+      "price": "$200.00",
       "summary":"Some laws teach the need for prudence (“Law 1: Never Outshine the Master”), others teach the value of confidence (“Law 28: Enter Action with Boldness”), and many recommend absolute self-preservation (“Law 15: Crush Your Enemy Totally”). Every law, though, has one thing in common: an interest in total domination. In a bold and arresting two-color package, The 48 Laws of Power is ideal whether your aim is conquest, self-defense, or simply to understand the rules of the game."
     },
     {
@@ -118,6 +131,7 @@
       "title": "The 48 Laws of Power",
       "cover_image": "https://images-na.ssl-images-amazon.com/images/I/71aG+xDKSYL.jpg",
       "releaseDate": "1839",
+      "price": "$200.00",
       "summary":"Some laws teach the need for prudence (“Law 1: Never Outshine the Master”), others teach the value of confidence (“Law 28: Enter Action with Boldness”), and many recommend absolute self-preservation (“Law 15: Crush Your Enemy Totally”). Every law, though, has one thing in common: an interest in total domination. In a bold and arresting two-color package, The 48 Laws of Power is ideal whether your aim is conquest, self-defense, or simply to understand the rules of the game."
     },
     {
@@ -126,6 +140,7 @@
       "title": "The 48 Laws of Power",
       "cover_image": "https://images-na.ssl-images-amazon.com/images/I/71aG+xDKSYL.jpg",
       "releaseDate": "1839",
+      "price": "$200.00",
       "summary":"Some laws teach the need for prudence (“Law 1: Never Outshine the Master”), others teach the value of confidence (“Law 28: Enter Action with Boldness”), and many recommend absolute self-preservation (“Law 15: Crush Your Enemy Totally”). Every law, though, has one thing in common: an interest in total domination. In a bold and arresting two-color package, The 48 Laws of Power is ideal whether your aim is conquest, self-defense, or simply to understand the rules of the game."
     },
     {
@@ -134,6 +149,7 @@
       "title": "The 48 Laws of Power",
       "cover_image": "https://images-na.ssl-images-amazon.com/images/I/71aG+xDKSYL.jpg",
       "releaseDate": "1839",
+      "price": "$200.00",
       "summary":"Some laws teach the need for prudence (“Law 1: Never Outshine the Master”), others teach the value of confidence (“Law 28: Enter Action with Boldness”), and many recommend absolute self-preservation (“Law 15: Crush Your Enemy Totally”). Every law, though, has one thing in common: an interest in total domination. In a bold and arresting two-color package, The 48 Laws of Power is ideal whether your aim is conquest, self-defense, or simply to understand the rules of the game."
     },
     {
@@ -142,6 +158,7 @@
       "title": "The 48 Laws of Power",
       "cover_image": "https://images-na.ssl-images-amazon.com/images/I/71aG+xDKSYL.jpg",
       "releaseDate": "1839",
+      "price": "$200.00",
       "summary":"Some laws teach the need for prudence (“Law 1: Never Outshine the Master”), others teach the value of confidence (“Law 28: Enter Action with Boldness”), and many recommend absolute self-preservation (“Law 15: Crush Your Enemy Totally”). Every law, though, has one thing in common: an interest in total domination. In a bold and arresting two-color package, The 48 Laws of Power is ideal whether your aim is conquest, self-defense, or simply to understand the rules of the game."
     },
     {
@@ -150,6 +167,7 @@
       "title": "The 48 Laws of Power",
       "cover_image": "https://images-na.ssl-images-amazon.com/images/I/71aG+xDKSYL.jpg",
       "releaseDate": "1839",
+      "price": "$200.00",
       "summary":"Some laws teach the need for prudence (“Law 1: Never Outshine the Master”), others teach the value of confidence (“Law 28: Enter Action with Boldness”), and many recommend absolute self-preservation (“Law 15: Crush Your Enemy Totally”). Every law, though, has one thing in common: an interest in total domination. In a bold and arresting two-color package, The 48 Laws of Power is ideal whether your aim is conquest, self-defense, or simply to understand the rules of the game."
     },
     {
@@ -158,6 +176,7 @@
       "title": "The 48 Laws of Power",
       "cover_image": "https://images-na.ssl-images-amazon.com/images/I/71aG+xDKSYL.jpg",
       "releaseDate": "1839",
+      "price": "$200.00",
       "summary":"Some laws teach the need for prudence (“Law 1: Never Outshine the Master”), others teach the value of confidence (“Law 28: Enter Action with Boldness”), and many recommend absolute self-preservation (“Law 15: Crush Your Enemy Totally”). Every law, though, has one thing in common: an interest in total domination. In a bold and arresting two-color package, The 48 Laws of Power is ideal whether your aim is conquest, self-defense, or simply to understand the rules of the game."
     },
     {
@@ -166,6 +185,7 @@
       "title": "The 48 Laws of Power",
       "cover_image": "https://images-na.ssl-images-amazon.com/images/I/71aG+xDKSYL.jpg",
       "releaseDate": "1839",
+      "price": "$200.00",
       "summary":"Some laws teach the need for prudence (“Law 1: Never Outshine the Master”), others teach the value of confidence (“Law 28: Enter Action with Boldness”), and many recommend absolute self-preservation (“Law 15: Crush Your Enemy Totally”). Every law, though, has one thing in common: an interest in total domination. In a bold and arresting two-color package, The 48 Laws of Power is ideal whether your aim is conquest, self-defense, or simply to understand the rules of the game."
     },
     {
@@ -174,6 +194,7 @@
       "title": "The 48 Laws of Power",
       "cover_image": "https://images-na.ssl-images-amazon.com/images/I/71aG+xDKSYL.jpg",
       "releaseDate": "1839",
+      "price": "$200.00",
       "summary":"Some laws teach the need for prudence (“Law 1: Never Outshine the Master”), others teach the value of confidence (“Law 28: Enter Action with Boldness”), and many recommend absolute self-preservation (“Law 15: Crush Your Enemy Totally”). Every law, though, has one thing in common: an interest in total domination. In a bold and arresting two-color package, The 48 Laws of Power is ideal whether your aim is conquest, self-defense, or simply to understand the rules of the game."
     },
     {
@@ -182,6 +203,7 @@
       "title": "The 48 Laws of Power",
       "cover_image": "https://images-na.ssl-images-amazon.com/images/I/71aG+xDKSYL.jpg",
       "releaseDate": "1839",
+      "price": "$200.00",
       "summary":"Some laws teach the need for prudence (“Law 1: Never Outshine the Master”), others teach the value of confidence (“Law 28: Enter Action with Boldness”), and many recommend absolute self-preservation (“Law 15: Crush Your Enemy Totally”). Every law, though, has one thing in common: an interest in total domination. In a bold and arresting two-color package, The 48 Laws of Power is ideal whether your aim is conquest, self-defense, or simply to understand the rules of the game."
     }, 
     {
@@ -190,6 +212,7 @@
       "title": "The 48 Laws of Power",
       "cover_image": "https://images-na.ssl-images-amazon.com/images/I/71aG+xDKSYL.jpg",
       "releaseDate": "1839",
+      "price": "$200.00",
       "summary":"Some laws teach the need for prudence (“Law 1: Never Outshine the Master”), others teach the value of confidence (“Law 28: Enter Action with Boldness”), and many recommend absolute self-preservation (“Law 15: Crush Your Enemy Totally”). Every law, though, has one thing in common: an interest in total domination. In a bold and arresting two-color package, The 48 Laws of Power is ideal whether your aim is conquest, self-defense, or simply to understand the rules of the game."
     },
     {
@@ -198,6 +221,7 @@
       "title": "The 48 Laws of Power",
       "cover_image": "https://images-na.ssl-images-amazon.com/images/I/71aG+xDKSYL.jpg",
       "releaseDate": "1839",
+      "price": "$200.00",
       "summary":"Some laws teach the need for prudence (“Law 1: Never Outshine the Master”), others teach the value of confidence (“Law 28: Enter Action with Boldness”), and many recommend absolute self-preservation (“Law 15: Crush Your Enemy Totally”). Every law, though, has one thing in common: an interest in total domination. In a bold and arresting two-color package, The 48 Laws of Power is ideal whether your aim is conquest, self-defense, or simply to understand the rules of the game."
     }
   ]

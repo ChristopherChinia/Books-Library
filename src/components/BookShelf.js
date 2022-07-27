@@ -2,7 +2,7 @@ import React,{ useState} from "react";
 import Overlay from './Overlay'
 
 const BookShelf = ({ book }) => {
-  const { title, cover_image, releaseDate, author,summary } = book;
+  const { title, cover_image, releaseDate, author} = book;
 
   const [show, setShow]=useState(false);
   const [bookItem, setItem]=useState();

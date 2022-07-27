@@ -10,16 +10,17 @@ const Overlay = ({show,book,onClose}) => {
     <>
     <div className="overlay">
         <div className="overlay-inner">
-            <button className="close" onClick={onClose}><i class="fas fa-times"></i></button>
             <div className="inner-box">
-                <img src={thumbnail} alt="" />
+                <img src={thumbnail} alt={book.title} />
                 <div className="info">
                     <h1>{book.title}</h1>
                     <h3>{book.author}</h3>
-                    <a href={"previewLink"}><button>More</button></a>
+                    <h4>{book.price}</h4>
+                    <button className="btn" onClick={onClose}>close</button>
+                    <a href={"previewLink"}><button>Buy</button></a>
+                    <h4 className="description">{book.summary}</h4>
                 </div>
             </div>
-            <h4 className="description">{book.summary}</h4>
         </div>
     </div>
 </>
