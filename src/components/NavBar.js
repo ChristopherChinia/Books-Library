@@ -18,11 +18,8 @@ const linkStyles = {
 const NavBar = ({ isDarkMode, onDarkModeClick }) => {
   return (
     <div className='navbar'>
-        <div className='navbar-top'>
         <h1>Book Libaries</h1>
-       
-        </div>
-        
+        <div>
     <NavLink
     to="/"
     exact
@@ -56,6 +53,7 @@ const NavBar = ({ isDarkMode, onDarkModeClick }) => {
   >
     About
   </NavLink>
+  </div>
   <button className='btn' onClick={onDarkModeClick}> {isDarkMode ? "Dark" : "Light"}Mode</button>
 </div>
   )
