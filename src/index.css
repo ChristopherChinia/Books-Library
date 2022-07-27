@@ -313,7 +313,7 @@ body {
 .about{
     width: 100%;
     height: 100%;
-
+   
 }
 
 .flex{
@@ -323,6 +323,11 @@ body {
 .about img{
   width: 600px;
   clip-path: circle(80% at left 500px);
+}
+
+.content{
+  margin-left: 20%;
+  margin-top: 20%;
 }
 
 footer h1{

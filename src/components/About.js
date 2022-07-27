@@ -9,7 +9,9 @@ const About = () => {
             <img src={image} className='img-responsive' alt='' />
             <div className='content'>
         <h1>About book library</h1>
-        <p> lorem ipsum dolor sit amet, consect</p>
+        
+        <p> Terms and conditions</p>
+        <button className='btn'> Learn more</button>
         </div>
         </div>
         <footer>
