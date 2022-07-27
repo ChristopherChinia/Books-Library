@@ -14,9 +14,22 @@ const BookStore = () => {
       })
       },[]);
   return (
-    <div>
-        <h1>This is my bookstore component!</h1>
-    </div>
+    <>
+    {books?.length>0 ?  
+ (<div className="box-container">
+ {books.map((book) =>(
+   <BookShelf 
+   key={book.id}
+   book={book}
+   />
+ ))}
+ </div>
+   ):(
+   <div className="empty">
+           <h2>No books found</h2>
+         </div>
+         )}
+     </>
   )
 }
 

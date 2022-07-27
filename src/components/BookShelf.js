@@ -3,7 +3,7 @@ import React from 'react'
 const BookShelf = () => {
   return (
     <>
-    <div className="movie">
+    <div className="book-shelf">
       <div>
         <p>{releaseDate}</p>
       </div>
