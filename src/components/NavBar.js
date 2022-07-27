@@ -21,7 +21,7 @@ const NavBar = ({ isDarkMode, onDarkModeClick }) => {
         <h1>Book Libaries</h1>
         <div>
     <NavLink
-    to="/"
+    to="/home"
     exact
     style={linkStyles}
     activeStyle={{
@@ -41,6 +41,17 @@ const NavBar = ({ isDarkMode, onDarkModeClick }) => {
       }}
   >
     BookStore
+  </NavLink>
+  <NavLink
+    to="/reviews"
+    exact
+    style={linkStyles}
+    activeStyle={{
+        background: "black",
+        color:"rgb(252, 116, 5)",
+      }}
+  >
+    Reviews
   </NavLink>
   <NavLink
     to="/about"
