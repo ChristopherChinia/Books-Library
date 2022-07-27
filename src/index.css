@@ -1,1 +1,78 @@
+@import url("https://fonts.googleapis.com/css?family=Roboto+Slab:100,300,400,700");
+@import url("https://fonts.googleapis.com/css?family=Raleway:300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i");
 
+* {
+  margin: 0;
+  border: 0;
+  box-sizing: border-box;
+}
+
+:root {
+  --font-roboto: "Roboto Slab", serif;
+  --font-raleway: "Raleway", sans-serif;
+  --font-color: rgb(33, 33, 33);
+  --font-color-light: rgb(155, 155, 155);
+  --background: rgb(255, 255, 255);
+  --background-light: rgb(230, 230, 230);
+}
+
+body {
+  font-family: var(--font-roboto);
+}
+
+.App.dark {
+  --font-color: rgb(255, 255, 255);
+  --background: rgb(50, 50, 50);
+  --background-light: rgb(101, 101, 101);
+  transition: all 0.3s;
+}
+
+.App {
+  padding: 1rem 2rem;
+  background: var(--background);
+  color: var(--font-color);
+  box-shadow: 4px 4px 10px rgba(33, 33, 33, 0.2);
+  border-radius: 10px;
+}
+
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+}
+
+
+.navbar h1 {
+  font-size: 3rem;
+  letter-spacing: 0.9px;
+  background: linear-gradient(
+    90deg,
+    rgb(252, 116, 5) 0%,
+    rgba(249, 211, 180, 0) 100%
+  );
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  width: fit-content;
+}
+
+.navbar-top{
+    display: flex;
+    justify-content: space-between;
+}
+
+.btn{
+    display: inline-block;
+    background: rgb(252, 116, 5);
+    color: black;
+    border: none;
+    padding: 10px 20px;
+    margin: 5px;
+    border-radius: 5px;
+    cursor: pointer;
+    text-decoration: none;
+    font-size: 15px;
+    font-family: inherit;
+  }

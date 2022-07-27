@@ -1,4 +1,4 @@
-import React from 'react';
+import React,{useState} from 'react';
 import { Route, Switch } from "react-router-dom";
 import Home from "./Home";
 import About from "./About";
@@ -6,9 +6,15 @@ import BookStore from './BookStore';
 import NavBar from "./NavBar";
 
 function App() {
+  const [isDarkMode, setIsDarkMode] = useState(false);
+
+  function handleDarkModeClick() {
+    setIsDarkMode((isDarkMode) => !isDarkMode);
+  }
+
   return (
-    <div>
-    <NavBar />
+    <div className={"App " + (isDarkMode ? "light" : "dark")}>
+    <NavBar isDarkMode={isDarkMode} onDarkModeClick={handleDarkModeClick}/>
       <Switch>
         <Route exact path="/about">
           <About />

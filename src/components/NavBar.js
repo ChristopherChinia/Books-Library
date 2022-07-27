@@ -15,9 +15,14 @@ const linkStyles = {
   fontFamily: "inherit",
   };
 
-const NavBar = () => {
+const NavBar = ({ isDarkMode, onDarkModeClick }) => {
   return (
-    <div>
+    <div className='navbar'>
+        <div className='navbar-top'>
+        <h1>Book Libaries</h1>
+       
+        </div>
+        
     <NavLink
     to="/"
     exact
@@ -51,6 +56,7 @@ const NavBar = () => {
   >
     About
   </NavLink>
+  <button className='btn' onClick={onDarkModeClick}> {isDarkMode ? "Dark" : "Light"}Mode</button>
 </div>
   )
 }
