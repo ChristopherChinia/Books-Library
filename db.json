@@ -1,76 +1,67 @@
 {
   "Books": [
     {
-      "id": 1,
-      "author": "Robert Greene ",
-      "title": "The 48 Laws of Power",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/I/71aG+xDKSYL.jpg",
-      "releaseDate": "1839",
-      "price": "$200.00",
-      "summary": "Some laws teach the need for prudence (“Law 1: Never Outshine the Master”), others teach the value of confidence (“Law 28: Enter Action with Boldness”), and many recommend absolute self-preservation (“Law 15: Crush Your Enemy Totally”). Every law, though, has one thing in common: an interest in total domination. In a bold and arresting two-color package, The 48 Laws of Power is ideal whether your aim is conquest, self-defense, or simply to understand the rules of the game."
-    },
-    {
       "id": 2,
-      "author": 1,
-      "title": "Hard Times",
-      "cover_image": "",
-      "releaseDate": "1854",
-      "price": "$200.00",
-      "summary": "Some laws teach the need for prudence (“Law 1: Never Outshine the Master”), others teach the value of confidence (“Law 28: Enter Action with Boldness”), and many recommend absolute self-preservation (“Law 15: Crush Your Enemy Totally”). Every law, though, has one thing in common: an interest in total domination. In a bold and arresting two-color package, The 48 Laws of Power is ideal whether your aim is conquest, self-defense, or simply to understand the rules of the game."
+      "author":"Robert Greene",
+      "title": "Mastery",
+      "cover_image": "https://uploads-ssl.webflow.com/5ad143610f7efd77b6f188f3/5b858a93636ec88661c16ecd_41FnF8UYX0L._SX349_BO1204203200_.jpg",
+      "releaseDate": "2002",
+      "price": "KES 1294.48",
+      "summary": "Not that an apprenticeship isn’t hard enough to find, let alone complete, but no, the path to mastery becomes even harder. Once you leave your apprenticeship to venture out on your own, you have to immediately throw everything you learned out of the window.Well, not quite. But Greene says you must keep an open mind – like a child. Challenge everything you know. The rules your mentor taught you. The common ways of doing things you learned."
     },
     {
       "id": 3,
-      "author": 3,
-      "title": "Hamlet",
-      "cover_image": "",
-      "releaseDate": "1603",
-      "price": "$200.00",
-      "summary": "Some laws teach the need for prudence (“Law 1: Never Outshine the Master”), others teach the value of confidence (“Law 28: Enter Action with Boldness”), and many recommend absolute self-preservation (“Law 15: Crush Your Enemy Totally”). Every law, though, has one thing in common: an interest in total domination. In a bold and arresting two-color package, The 48 Laws of Power is ideal whether your aim is conquest, self-defense, or simply to understand the rules of the game."
+      "author":"Robert Greene",
+      "title": "Art of Seduction",
+      "cover_image": "https://marloyonocruz.files.wordpress.com/2018/09/img_9352.jpg",
+      "releaseDate": "2001",
+      "price": "KES 1200.00",
+      "summary": "Humans are pattern-seeking machines. Analyzing everything is one of our biggest strengths, which is also why it’s the skill we most love to exercise. However, that also means as soon as we figure something out, it’s boring. In movies as in life, flat, one-dimensional characters don’t interest us. They can’t hold our attention for long."
     },
     {
       "id": 4,
-      "author": 2,
-      "title": "IT",
-      "cover_image": "",
+      "author": "Robert Greene",
+      "title": "Laws of Human Nature",
+      "cover_image": "https://m.media-amazon.com/images/I/41ditvzNsIL._AC_SY1000_.jpg",
       "releaseDate": "2017",
-      "price": "$200.00",
-      "summary": "Some laws teach the need for prudence (“Law 1: Never Outshine the Master”), others teach the value of confidence (“Law 28: Enter Action with Boldness”), and many recommend absolute self-preservation (“Law 15: Crush Your Enemy Totally”). Every law, though, has one thing in common: an interest in total domination. In a bold and arresting two-color package, The 48 Laws of Power is ideal whether your aim is conquest, self-defense, or simply to understand the rules of the game."
+      "price": "KES 1315.50",
+      "summary": "Historically acclaimed playwright Anton Chekhov had every reason not to become the legend he is today. His father beat him and forced Anton to skip school to work for him. Ultimately, his bad business dealings even forced the family to flee from their hometown. Worse still, they left Anton behind at the ripe age of…sixteen.    The core of human behavior Greene gets to in the book is patterns and with such a childhood, you’d naturally expect bad patterns, like alcoholism, aggression, or others, to follow in Chekhov’s life. But they didn’t. Chekhov had developed a strong sense of empathy, which allowed him to see his father as the troubled man that he was. He pitied him and was able to let go of his anger."
     },
     {
       "id": 5,
-      "author": 4,
+      "author": "Murakami",
       "title": "Norwegian Wood",
       "cover_image": "http://t1.gstatic.com/images?q=tbn:ANd9GcQvJJDi2mzwg9v_PlmKYL31gXIz0kvAObJak7DVFPcD_mJTIyec",
       "releaseDate": "1987",
-      "price": "$200.00",
+      "price": "KES 1400.00",
       "summary": "Some laws teach the need for prudence (“Law 1: Never Outshine the Master”), others teach the value of confidence (“Law 28: Enter Action with Boldness”), and many recommend absolute self-preservation (“Law 15: Crush Your Enemy Totally”). Every law, though, has one thing in common: an interest in total domination. In a bold and arresting two-color package, The 48 Laws of Power is ideal whether your aim is conquest, self-defense, or simply to understand the rules of the game."
     },
     {
       "id": 6,
-      "author": 4,
+      "author": "Murakami" ,
       "title": "Kafka on the Shore",
       "cover_image": "http://t0.gstatic.com/images?q=tbn:ANd9GcRHFU_j93PPsbQGqoaZJnHH6-Emk_sIxG823SkoRTL0nvdEP41f",
       "releaseDate": "2002",
-      "price": "$200.00",
+      "price": "KES 1200.00",
       "summary": "Some laws teach the need for prudence (“Law 1: Never Outshine the Master”), others teach the value of confidence (“Law 28: Enter Action with Boldness”), and many recommend absolute self-preservation (“Law 15: Crush Your Enemy Totally”). Every law, though, has one thing in common: an interest in total domination. In a bold and arresting two-color package, The 48 Laws of Power is ideal whether your aim is conquest, self-defense, or simply to understand the rules of the game."
     },
     {
       "id": 7,
-      "author": 4,
+      "author":  "Murakami",
       "title": "After Dark",
       "cover_image": "http://t3.gstatic.com/images?q=tbn:ANd9GcQBMNA8A19vQpNY4bkgadsLhiRUFqBKwKAA6ANrw8VEtOiPrYQJ",
       "releaseDate": "2004",
-      "price": "$200.00",
+      "price": "KES 900.00",
       "summary": "Some laws teach the need for prudence (“Law 1: Never Outshine the Master”), others teach the value of confidence (“Law 28: Enter Action with Boldness”), and many recommend absolute self-preservation (“Law 15: Crush Your Enemy Totally”). Every law, though, has one thing in common: an interest in total domination. In a bold and arresting two-color package, The 48 Laws of Power is ideal whether your aim is conquest, self-defense, or simply to understand the rules of the game."
     },
     {
       "id": 8,
-      "author": 4,
+      "author":  "Murakami",
       "title": "1Q84",
       "cover_image": "http://t0.gstatic.com/images?q=tbn:ANd9GcTBQZSg-b2LFkLlt9fWndS1w8SONabDZBHf0dtdb3-bqcuKxduL",
       "pages": 928,
       "releaseDate": "2009",
-      "price": "$200.00",
+      "price": "KES 1100.00",
       "summary": "Some laws teach the need for prudence (“Law 1: Never Outshine the Master”), others teach the value of confidence (“Law 28: Enter Action with Boldness”), and many recommend absolute self-preservation (“Law 15: Crush Your Enemy Totally”). Every law, though, has one thing in common: an interest in total domination. In a bold and arresting two-color package, The 48 Laws of Power is ideal whether your aim is conquest, self-defense, or simply to understand the rules of the game."
     },
     {
@@ -78,124 +69,126 @@
       "author": "Robert Greene ",
       "title": "The 48 Laws of Power",
       "cover_image": "https://images-na.ssl-images-amazon.com/images/I/71aG+xDKSYL.jpg",
-      "releaseDate": "1839",
-      "price": "$200.00",
+      "releaseDate": "2011",
+      "price": "KES 1200.00",
       "summary": "Some laws teach the need for prudence (“Law 1: Never Outshine the Master”), others teach the value of confidence (“Law 28: Enter Action with Boldness”), and many recommend absolute self-preservation (“Law 15: Crush Your Enemy Totally”). Every law, though, has one thing in common: an interest in total domination. In a bold and arresting two-color package, The 48 Laws of Power is ideal whether your aim is conquest, self-defense, or simply to understand the rules of the game."
     },
     {
       "id": 10,
-      "author": "Robert Greene ",
-      "title": "The 48 Laws of Power",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/I/71aG+xDKSYL.jpg",
-      "releaseDate": "1839",
-      "price": "$200.00",
-      "summary": "Some laws teach the need for prudence (“Law 1: Never Outshine the Master”), others teach the value of confidence (“Law 28: Enter Action with Boldness”), and many recommend absolute self-preservation (“Law 15: Crush Your Enemy Totally”). Every law, though, has one thing in common: an interest in total domination. In a bold and arresting two-color package, The 48 Laws of Power is ideal whether your aim is conquest, self-defense, or simply to understand the rules of the game."
+      "author": "Mark Manson",
+      "title": "The Subtle Art of Not Giving a F*ck",
+      "cover_image": "https://nuriakenya.com/wp-content/uploads/2020/11/The-Subtle-Art-of-Not-Giving-a-Fck.jpg",
+      "releaseDate": "2016",
+      "price": "KES1500.00",
+      "summary": "I decided I was organizing this house party to which I invited many friends and possibly some strangers. I was excited about planning everything thoroughly, and I had some positive expectations. As the party day was getting close, I was not getting enough confirmation; many people were quitting or telling me they couldn’t make it. I didn’t like it, but I kept the party, thinking it could still go more like a friend gathering. Only a few hours before the party did I receive more declines. In the end, there were only three survivors, counting with me, food and drinks in excess, and several cups that I had bought for the party. Something that many would call a failure."
     },
     {
       "id": 11,
-      "author": "Robert Greene ",
-      "title": "The 48 Laws of Power",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/I/71aG+xDKSYL.jpg",
-      "releaseDate": "1839",
-      "price": "$200.00",
-      "summary": "Some laws teach the need for prudence (“Law 1: Never Outshine the Master”), others teach the value of confidence (“Law 28: Enter Action with Boldness”), and many recommend absolute self-preservation (“Law 15: Crush Your Enemy Totally”). Every law, though, has one thing in common: an interest in total domination. In a bold and arresting two-color package, The 48 Laws of Power is ideal whether your aim is conquest, self-defense, or simply to understand the rules of the game."
+      "author": " Lee Kuan Yew, Henry Kissinger ",
+      "title": "From Third World to First",
+      "cover_image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1546080459l/144409._SY475_.jpg",
+      "releaseDate": "2002",
+      "price": "KES 1375.00",
+      "summary": "Few gave tiny Singapore much chance of survival when it was granted independence in 1965. How is it, then, that today the former British colonial trading post is a thriving Asian metropolis with not only the world's number one airline, best airport, and busiest port of trade, but also the world's fourth–highest per capita real income?"
     },
     {
       "id": 12,
-      "author": "Robert Greene ",
-      "title": "The 48 Laws of Power",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/I/71aG+xDKSYL.jpg",
-      "releaseDate": "1839",
-      "summary": "Some laws teach the need for prudence (“Law 1: Never Outshine the Master”), others teach the value of confidence (“Law 28: Enter Action with Boldness”), and many recommend absolute self-preservation (“Law 15: Crush Your Enemy Totally”). Every law, though, has one thing in common: an interest in total domination. In a bold and arresting two-color package, The 48 Laws of Power is ideal whether your aim is conquest, self-defense, or simply to understand the rules of the game."
+      "author": " Marijn Haverbeke",
+      "title": "Eloquent JavaScript",
+      "cover_image": "https://eloquentjavascript.net/img/cover.jpg",
+      "releaseDate": "2018",
+      "price": "KES 1375.00",
+      "summary": "Illustrations by various artists: Cover and chapter illustrations by Madalina Tantareanu. Pixel art in Chapters 7 and 16 by Antonio Perdomo Pastor. Regular expression diagrams in Chapter 9 generated with regexper.com by Jeff Avallone. Village photograph in Chapter 11 by Fabrice Creuzot. Game concept for Chapter 16 by Thomas Palef."
     },
     {
       "id": 13,
-      "author": "Robert Greene ",
-      "title": "The 48 Laws of Power",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/I/71aG+xDKSYL.jpg",
+      "author": "Rollo Tomassi",
+      "title": "The Rational Male",
+      "cover_image": "https://nuriakenya.com/wp-content/uploads/2021/01/The-Rational-Male-Positive-Masculinity-NuriaKenya-1-600x750.jpg",
       "releaseDate": "1839",
-      "price": "$200.00",
-      "summary": "Some laws teach the need for prudence (“Law 1: Never Outshine the Master”), others teach the value of confidence (“Law 28: Enter Action with Boldness”), and many recommend absolute self-preservation (“Law 15: Crush Your Enemy Totally”). Every law, though, has one thing in common: an interest in total domination. In a bold and arresting two-color package, The 48 Laws of Power is ideal whether your aim is conquest, self-defense, or simply to understand the rules of the game."
+      "price": "KES 1100.00",
+      "summary": "Rollo Tomassi is one of the leading voices in the globally growing, male-focused online consortium known as the Manosphere. Outlined are the concepts of positive masculinity, the feminine imperative, plate theory, operative social conventions and the core psychological theory behind Game awareness and red pill ideology. Tomassi explains and outlines the principles of intergender social dynamics and foundational reasoning behind them."
     },
     {
       "id": 14,
-      "author": "Robert Greene ",
-      "title": "The 48 Laws of Power",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/I/71aG+xDKSYL.jpg",
-      "releaseDate": "1839",
-      "summary": "Some laws teach the need for prudence (“Law 1: Never Outshine the Master”), others teach the value of confidence (“Law 28: Enter Action with Boldness”), and many recommend absolute self-preservation (“Law 15: Crush Your Enemy Totally”). Every law, though, has one thing in common: an interest in total domination. In a bold and arresting two-color package, The 48 Laws of Power is ideal whether your aim is conquest, self-defense, or simply to understand the rules of the game."
+      "author": "Ken Honda",
+      "title": "Happy Money:The Japanese Art of Making Peace with Your Money",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/I/41Dvre41nrL._SX351_BO1,204,203,200_.jpg",
+      "releaseDate": "2014",
+      "price": "KES 1100.00",
+      "summary": "It highlighted lots of concerns I have about having an unhealthy relationship with money, but I feel that it was scant on solutions. Overanxious about your financial situation or a bit of a Scrooge when it comes to money? Be grateful with what you have, says Honda. Unfortunately the roots for these attitudes go very deep and while gratitude and cultivating relationships and a community is a great first step, it isn’t enough to change it."
     },
     {
       "id": 15,
-      "author": "Robert Greene ",
-      "title": "The 48 Laws of Power",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/I/71aG+xDKSYL.jpg",
+      "author": "Kevin Hart, Neil Strauss ",
+      "title": "I Can't Make This Up: Life Lessons",
+      "cover_image": "https://d28hgpri8am2if.cloudfront.net/book_images/onix/cvr9781501155574/i-cant-make-this-up-9781501155574_hr.jpg",
       "releaseDate": "1839",
-      "price": "$200.00",
-      "summary": "Some laws teach the need for prudence (“Law 1: Never Outshine the Master”), others teach the value of confidence (“Law 28: Enter Action with Boldness”), and many recommend absolute self-preservation (“Law 15: Crush Your Enemy Totally”). Every law, though, has one thing in common: an interest in total domination. In a bold and arresting two-color package, The 48 Laws of Power is ideal whether your aim is conquest, self-defense, or simply to understand the rules of the game."
+      "price": "KES 1200.00",
+      "summary": "I went into reading I Can't Make This Up thinking I was going to just laugh, but I didn’t expect to get hooked on the story itself as well. Kevin Hart's story is not a new one, but it is powerful and inspiring. The book started off strong with hilarious, endearing, and sometimes bitter sweet childhood and coming of age stories that incorporated life lessons. It's a leisurely stroll through a life where there were choices to be made, and desperate situations to be lived through. The book felt more like a dialogue and storytelling than an autobiography."
     },
     {
       "id": 16,
-      "author": "Robert Greene ",
-      "title": "The 48 Laws of Power",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/I/71aG+xDKSYL.jpg",
-      "releaseDate": "1839",
-      "price": "$200.00",
-      "summary": "Some laws teach the need for prudence (“Law 1: Never Outshine the Master”), others teach the value of confidence (“Law 28: Enter Action with Boldness”), and many recommend absolute self-preservation (“Law 15: Crush Your Enemy Totally”). Every law, though, has one thing in common: an interest in total domination. In a bold and arresting two-color package, The 48 Laws of Power is ideal whether your aim is conquest, self-defense, or simply to understand the rules of the game."
+      "author": " Robert T. Kiyosaki",
+      "title": "Rich Dad, Poor Dad",
+      "cover_image": "https://readinstead.co.ke/wp-content/uploads/2021/12/rich-dad.jpg",
+      "releaseDate": "2015",
+      "price": "KES 1500.00",
+      "summary": "Rich Dad Poor Dad is Robert's story of growing up with two dads — his real father and the father of his best friend, his rich dad and the ways in which both men shaped his thoughts about money and investing. The book explodes the myth that you need to earn a high income to be rich and explains the difference between working for money and having your money work for you."
     },
     {
       "id": 17,
-      "author": "Robert Greene ",
-      "title": "The 48 Laws of Power",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/I/71aG+xDKSYL.jpg",
-      "releaseDate": "1839",
-      "price": "$200.00",
-      "summary": "Some laws teach the need for prudence (“Law 1: Never Outshine the Master”), others teach the value of confidence (“Law 28: Enter Action with Boldness”), and many recommend absolute self-preservation (“Law 15: Crush Your Enemy Totally”). Every law, though, has one thing in common: an interest in total domination. In a bold and arresting two-color package, The 48 Laws of Power is ideal whether your aim is conquest, self-defense, or simply to understand the rules of the game."
+      "author": "Sun Tzu",
+      "title": "The Art of War",
+      "cover_image": "https://kbimages1-a.akamaihd.net/fabf787b-ac84-48ef-bfaa-7a33f6b71656/1200/1200/False/the-art-of-war-186.jpg",
+      "releaseDate": "2009",
+      "price": "KES 900.00",
+      "summary": "Twenty-Five Hundred years ago, Sun Tzu wrote this classic book of military strategy based on Chinese warfare and military thought. Since that time, all levels of military have used the teaching on Sun Tzu to warfare and civilization have adapted these teachings for use in politics, business and everyday life. The Art of War is a book which should be used to gain advantage of opponents in the boardroom and battlefield alike."
     },
     {
       "id": 18,
-      "author": "Robert Greene ",
-      "title": "The 48 Laws of Power",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/I/71aG+xDKSYL.jpg",
-      "releaseDate": "1839",
-      "price": "$200.00",
-      "summary": "Some laws teach the need for prudence (“Law 1: Never Outshine the Master”), others teach the value of confidence (“Law 28: Enter Action with Boldness”), and many recommend absolute self-preservation (“Law 15: Crush Your Enemy Totally”). Every law, though, has one thing in common: an interest in total domination. In a bold and arresting two-color package, The 48 Laws of Power is ideal whether your aim is conquest, self-defense, or simply to understand the rules of the game."
+      "author": " Yuval Noah Harari",
+      "title": "Homo Deus: A History of Tomorrow",
+      "cover_image": "https://officemart.co.ke/media/products/2022/04/64ANF0055_FoEavT3.jpg",
+      "releaseDate": "2015",
+      "price": "KES 1375.00",
+      "summary": "Over the past century humankind has managed to do the impossible and rein in famine, plague, and war. This may seem hard to accept, but, as Harari explains in his trademark style—thorough, yet riveting—famine, plague and war have been transformed from incomprehensible and uncontrollable forces of nature into manageable challenges. For the first time ever, more people die from eating too much than from eating too little; more people die from old age than from infectious diseases; and more people commit suicide than are killed by soldiers, terrorists and criminals put together. The average American is a thousand times more likely to die from binging at McDonalds than from being blown up by Al Qaeda."
     },
     {
       "id": 19,
-      "author": "Robert Greene ",
-      "title": "The 48 Laws of Power",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/I/71aG+xDKSYL.jpg",
-      "releaseDate": "1839",
-      "price": "$200.00",
-      "summary": "Some laws teach the need for prudence (“Law 1: Never Outshine the Master”), others teach the value of confidence (“Law 28: Enter Action with Boldness”), and many recommend absolute self-preservation (“Law 15: Crush Your Enemy Totally”). Every law, though, has one thing in common: an interest in total domination. In a bold and arresting two-color package, The 48 Laws of Power is ideal whether your aim is conquest, self-defense, or simply to understand the rules of the game."
+      "author": "Robert Greene",
+      "title": "The 33 Strategies of War",
+      "cover_image": "https://kbimages1-a.akamaihd.net/55d785e6-1f9b-4507-804a-421dfde4b89b/1200/1200/False/the-33-strategies-of-war.jpg",
+      "releaseDate": "",
+      "price": "KES 1400.00",
+      "summary": "Abundantly illustrated with examples from history, including the folly and genius of everyone from Napoleon to Margaret Thatcher, Shaka the Zulu to Lord Nelson, Hannibal to Ulysses S. Grant, as well as movie moguls, Samurai swordsmen, and diplomats, each of the thirty-three chapters outlines a strategy that will help you win life’s wars. Learn the offensive strategies that require you to maintain the initiative and negotiate from a position of strength, or the defensive strategies designed to help you respond to dangerous situations and avoid unwinnable wars. The great warriors of battlefields and drawing rooms alike demonstrate prudence, agility, balance, and calm, and a keen understanding that the rational, resourceful, and intuitive always defeat the panicked, the uncreative, and the stupid. An indispensable book, The 33 Strategies of War provides all the psychological ammunition you need to overcome patterns of failure and forever gain the upper hand"
     },
     {
       "id": 20,
-      "author": "Robert Greene ",
-      "title": "The 48 Laws of Power",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/I/71aG+xDKSYL.jpg",
-      "releaseDate": "1839",
-      "price": "$200.00",
-      "summary": "Some laws teach the need for prudence (“Law 1: Never Outshine the Master”), others teach the value of confidence (“Law 28: Enter Action with Boldness”), and many recommend absolute self-preservation (“Law 15: Crush Your Enemy Totally”). Every law, though, has one thing in common: an interest in total domination. In a bold and arresting two-color package, The 48 Laws of Power is ideal whether your aim is conquest, self-defense, or simply to understand the rules of the game."
+      "author": " Eric Berne",
+      "title": "Games People Play",
+      "cover_image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1394277509l/13245420.jpg",
+      "releaseDate": "2016",
+      "price": "KES 1100.00",
+      "summary": "Forty years ago, Games People Play revolutionized our understanding of what really goes on during our most basic social interactions. More than five million copies later, Dr. Eric Berne’s classic is as astonishing–and revealing–as it was on the day it was first published. This anniversary edition features a new introduction by Dr. James R. Allen, president of the International Transactional Analysis Association, and Kurt Vonnegut’s brilliant Life magazine review from 1965.We play games all the time–sexual games, marital games, power games with our bosses, and competitive games with our friends. Detailing status contests like “Martini” (I know a better way), to lethal couples combat like “If It Weren’t For You” and “Uproar,” to flirtation favorites like “The Stocking Game” and “Let’s You and Him Fight,” Dr. Berne exposes the secret ploys and unconscious maneuvers that rule our intimate lives.Explosive when it first appeared, Games People Play is now widely recognized as the most original and influential popular psychology book of our time. It’s as powerful and eye-opening as ever."
     },
     {
       "id": 21,
-      "author": "Robert Greene ",
-      "title": "The 48 Laws of Power",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/I/71aG+xDKSYL.jpg",
-      "releaseDate": "1839",
-      "price": "$200.00",
-      "summary": "Some laws teach the need for prudence (“Law 1: Never Outshine the Master”), others teach the value of confidence (“Law 28: Enter Action with Boldness”), and many recommend absolute self-preservation (“Law 15: Crush Your Enemy Totally”). Every law, though, has one thing in common: an interest in total domination. In a bold and arresting two-color package, The 48 Laws of Power is ideal whether your aim is conquest, self-defense, or simply to understand the rules of the game."
+      "author": "David Robson",
+      "title": "The Intelligence Trap: Why Smart People Make Dumb Mistakes",
+      "cover_image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1557024251l/45455947._SY475_.jpg",
+      "releaseDate": "2018",
+      "price": "KES 1600.00",
+      "summary": "The Intelligence Trap explores cutting-edge ideas in our understanding of intelligence and expertise, including strategic ignorance, meta-forgetfulness, and functional stupidity.Robson reveals the surprising ways that even the brightest minds and most talented organizations can go wrong—from some of Thomas Edison’s worst ideas to failures at NASA, Nokia, and the FBI. And he offers practical advice to avoid mistakes based on the timeless lessons of Benjamin Franklin, Richard Feynman, and Daniel Kahneman. "
     },
     {
       "id": 22,
-      "author": "Robert Greene ",
-      "title": "The 48 Laws of Power",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/I/71aG+xDKSYL.jpg",
+      "author": " Richard Koch ",
+      "title": "The 80/20 Principle: The Secret to Achieving More with Less",
+      "cover_image": "https://prestigebookshop.com/wp-content/uploads/2019/02/book-image-3843.jpg",
       "releaseDate": "1839",
-      "price": "$200.00",
-      "summary": "Some laws teach the need for prudence (“Law 1: Never Outshine the Master”), others teach the value of confidence (“Law 28: Enter Action with Boldness”), and many recommend absolute self-preservation (“Law 15: Crush Your Enemy Totally”). Every law, though, has one thing in common: an interest in total domination. In a bold and arresting two-color package, The 48 Laws of Power is ideal whether your aim is conquest, self-defense, or simply to understand the rules of the game."
+      "price": "KES 1000.00",
+      "summary": "Did you know, for example, that 20 percent of customers account for 80 percent of revenues? That 20 percent of our time accounts for 80 percent of the work we accomplish? The 80/20 Principle shows how we can achieve much more with much less effort, time, and resources, simply by identifying and focusing our efforts on the 20 percent that really counts. Although the 80/20 principle has long influenced today's business world, author Richard Koch reveals how the principle works and shows how we can use it in a systematic and practical way to vastly increase our effectiveness, and improve our careers and our companies."
     },
     {
       "id": 23,
@@ -203,16 +196,17 @@
       "title": "The 48 Laws of Power",
       "cover_image": "https://images-na.ssl-images-amazon.com/images/I/71aG+xDKSYL.jpg",
       "releaseDate": "1839",
-      "price": "$200.00",
+      "price": "KES 1245.00",
       "summary": "Some laws teach the need for prudence (“Law 1: Never Outshine the Master”), others teach the value of confidence (“Law 28: Enter Action with Boldness”), and many recommend absolute self-preservation (“Law 15: Crush Your Enemy Totally”). Every law, though, has one thing in common: an interest in total domination. In a bold and arresting two-color package, The 48 Laws of Power is ideal whether your aim is conquest, self-defense, or simply to understand the rules of the game."
     },
     {
-      "title": "qqqqqqqqqqqqqqqqqq",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/I/71aG+xDKSYL.jpg",
-      "author": "mew",
-      "summary": "Some laws teach the need for prudence (“Law 1: Never Outshine the Master”), others teach the value of confidence (“Law 28: Enter Action with Boldness”), and many recommend absolute self-preservation (“Law 15: Crush Your Enemy Totally”). Every law, though, has one thing in common: an interest in total domination. In a bold and arresting two-color package, The 48 Laws of Power is ideal whether your aim is conquest, self-defense, or simply to understand the rules of the game.",
-      "releaseDate": "2017",
-      "id": 24
+        "id": 11,
+        "author": " Lee Kuan Yew, Henry Kissinger ",
+        "title": "From Third World to First",
+        "cover_image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1546080459l/144409._SY475_.jpg",
+        "releaseDate": "2002",
+        "price": "KES 1375.00",
+        "summary": "Few gave tiny Singapore much chance of survival when it was granted independence in 1965. How is it, then, that today the former British colonial trading post is a thriving Asian metropolis with not only the world's number one airline, best airport, and busiest port of trade, but also the world's fourth–highest per capita real income?"
     },
     {
       "title": "Mastery",

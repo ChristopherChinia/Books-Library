@@ -15,8 +15,8 @@ const Overlay = ({ show, book, onClose }) => {
                             <h1>{book.title}</h1>
                             <h3>{book.author}</h3>
                             <h4>{book.price}</h4>
-                            <button className="btn" onClick={onClose}>close</button>
-                            <a href={"previewLink"}><button>Buy</button></a>
+                            <button className="btn" onClick={onClose}>Close</button>
+                            <a href={"previewLink"}><button>Read more</button></a>
                             <h4 className="description">{book.summary}</h4>
                         </div>
                     </div>

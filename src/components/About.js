@@ -10,7 +10,7 @@ const About = () => {
             <div className='content'>
         <h1>About book library</h1>
         
-        <p> Terms and conditions</p>
+        <p> Terms and conditions Apply.</p>
         <button className='btn'> Learn more</button>
         </div>
         </div>

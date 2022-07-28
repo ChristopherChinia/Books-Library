@@ -173,7 +173,7 @@ body {
     width: 310px;
     height: 460px;
     margin: 1.5rem;
-    /* position: relative; */
+    /* position: absolute; */
     border-radius: 12px;
     overflow: hidden;
     border: none;
@@ -385,8 +385,6 @@ body {
 /* review form */
 form{
   background-color:rgb(252, 116, 5);
-}
-.add-form{
   margin-bottom: 40px;
 }
 
