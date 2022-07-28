@@ -2,7 +2,7 @@
   "Books": [
     {
       "id": 2,
-      "author":"Robert Greene",
+      "author": "Robert Greene",
       "title": "Mastery",
       "cover_image": "https://uploads-ssl.webflow.com/5ad143610f7efd77b6f188f3/5b858a93636ec88661c16ecd_41FnF8UYX0L._SX349_BO1204203200_.jpg",
       "releaseDate": "2002",
@@ -11,7 +11,7 @@
     },
     {
       "id": 3,
-      "author":"Robert Greene",
+      "author": "Robert Greene",
       "title": "Art of Seduction",
       "cover_image": "https://marloyonocruz.files.wordpress.com/2018/09/img_9352.jpg",
       "releaseDate": "2001",
@@ -38,7 +38,7 @@
     },
     {
       "id": 6,
-      "author": "Murakami" ,
+      "author": "Murakami",
       "title": "Kafka on the Shore",
       "cover_image": "http://t0.gstatic.com/images?q=tbn:ANd9GcRHFU_j93PPsbQGqoaZJnHH6-Emk_sIxG823SkoRTL0nvdEP41f",
       "releaseDate": "2002",
@@ -47,7 +47,7 @@
     },
     {
       "id": 7,
-      "author":  "Murakami",
+      "author": "Murakami",
       "title": "After Dark",
       "cover_image": "http://t3.gstatic.com/images?q=tbn:ANd9GcQBMNA8A19vQpNY4bkgadsLhiRUFqBKwKAA6ANrw8VEtOiPrYQJ",
       "releaseDate": "2004",
@@ -56,7 +56,7 @@
     },
     {
       "id": 8,
-      "author":  "Murakami",
+      "author": "Murakami",
       "title": "1Q84",
       "cover_image": "http://t0.gstatic.com/images?q=tbn:ANd9GcTBQZSg-b2LFkLlt9fWndS1w8SONabDZBHf0dtdb3-bqcuKxduL",
       "pages": 928,
@@ -200,13 +200,13 @@
       "summary": "Some laws teach the need for prudence (“Law 1: Never Outshine the Master”), others teach the value of confidence (“Law 28: Enter Action with Boldness”), and many recommend absolute self-preservation (“Law 15: Crush Your Enemy Totally”). Every law, though, has one thing in common: an interest in total domination. In a bold and arresting two-color package, The 48 Laws of Power is ideal whether your aim is conquest, self-defense, or simply to understand the rules of the game."
     },
     {
-        "id": 11,
-        "author": " Lee Kuan Yew, Henry Kissinger ",
-        "title": "From Third World to First",
-        "cover_image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1546080459l/144409._SY475_.jpg",
-        "releaseDate": "2002",
-        "price": "KES 1375.00",
-        "summary": "Few gave tiny Singapore much chance of survival when it was granted independence in 1965. How is it, then, that today the former British colonial trading post is a thriving Asian metropolis with not only the world's number one airline, best airport, and busiest port of trade, but also the world's fourth–highest per capita real income?"
+      "id": 11,
+      "author": " Lee Kuan Yew, Henry Kissinger ",
+      "title": "From Third World to First",
+      "cover_image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1546080459l/144409._SY475_.jpg",
+      "releaseDate": "2002",
+      "price": "KES 1375.00",
+      "summary": "Few gave tiny Singapore much chance of survival when it was granted independence in 1965. How is it, then, that today the former British colonial trading post is a thriving Asian metropolis with not only the world's number one airline, best airport, and busiest port of trade, but also the world's fourth–highest per capita real income?"
     },
     {
       "title": "Mastery",
