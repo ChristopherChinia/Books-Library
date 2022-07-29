@@ -4,14 +4,15 @@ const ReviewsForm = () => {
     const [title, setTitle] = useState("");
     const [author, setAuthor] = useState("");
     const [image, setImage] = useState("");
+    const [price, setPrice] = useState("");
     const [summary, setSummary] = useState("");
     const [year, setYear] = useState("");
 
-    function HandleTitlechange(event) {
+    function HandleTitleChange(event) {
         setTitle(event.target.value);
       }
 
-      function HandleImagechange(event) {
+      function HandleImageChange(event) {
         setImage(event.target.value);
       }
     
@@ -21,6 +22,10 @@ const ReviewsForm = () => {
     
       function HandleSummaryChange(event) {
         setSummary(event.target.value);
+      }
+
+      function HandlePriceChange(event) {
+        setPrice(event.target.value);
       }
 
       function HandleYearChange(event) {
@@ -33,6 +38,7 @@ const ReviewsForm = () => {
           title: title,
           cover_image: image,
           author: author,
+          price: price,
           summary: summary,
           releaseDate: year,
         };
@@ -50,6 +56,7 @@ const ReviewsForm = () => {
         setSummary("");
         setTitle("");
         setYear("");
+        setPrice("");
       }
 
   return (
@@ -57,7 +64,7 @@ const ReviewsForm = () => {
     <div className="form-control">
         <label>Title</label>
         <input  placeholder="Title" required
-        onChange={HandleTitlechange}
+        onChange={HandleTitleChange}
         value={title}
     />
     </div>
@@ -71,8 +78,16 @@ const ReviewsForm = () => {
     <div className="form-control">
         <label>image</label>
         <input  placeholder="Add image"
-        onChange={HandleImagechange} 
+        onChange={HandleImageChange} 
         value={image}
+    />
+    </div>
+
+    <div className="form-control">
+        <label>price</label>
+        <input  placeholder="Add image"
+        onChange={HandlePriceChange} 
+        value={price}
     />
     </div>
 
