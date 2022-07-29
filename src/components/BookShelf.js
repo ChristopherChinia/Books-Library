@@ -1,15 +1,21 @@
-import React,{ useState} from "react";
-import Overlay from './Overlay'
+import React, { useState } from "react";
+import Overlay from "./Overlay";
 
 const BookShelf = ({ book }) => {
-  const { title, cover_image, releaseDate, author} = book;
+  const { title, cover_image, releaseDate, author } = book;
 
-  const [show, setShow]=useState(false);
-  const [bookItem, setItem]=useState();
-  console.log(book)
+  const [show, setShow] = useState(false);
+  const [bookItem, setItem] = useState();
+  console.log(book);
   return (
     <div className="book-shelf">
-      <div className="book-box" onClick={()=>{setShow(true);setItem(book)}}>
+      <div
+        className="book-box"
+        onClick={() => {
+          setShow(true);
+          setItem(book);
+        }}
+      >
         <div>
           <p>{releaseDate}</p>
         </div>
@@ -24,7 +30,7 @@ const BookShelf = ({ book }) => {
           <h3>- By {author}</h3>
         </div>
       </div>
-      <Overlay show={show} book={bookItem} onClose={()=>setShow(false)}/>
+      <Overlay show={show} book={bookItem} onClose={() => setShow(false)} />
     </div>
   );
 };

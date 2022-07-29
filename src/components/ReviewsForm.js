@@ -9,27 +9,22 @@ const ReviewsForm = () => {
 
     function HandleTitlechange(event) {
         setTitle(event.target.value);
-        // console.log(title)
       }
 
       function HandleImagechange(event) {
         setImage(event.target.value);
-        // console.log(title)
       }
     
       function HandleAuthorChange(event) {
         setAuthor(event.target.value);
-        // console.log(author)
       }
     
       function HandleSummaryChange(event) {
         setSummary(event.target.value);
-        // console.log(content)
       }
 
       function HandleYearChange(event) {
         setYear(event.target.value);
-        // console.log(content)
       }
 
       function HandleSubmit(e) {
@@ -42,7 +37,7 @@ const ReviewsForm = () => {
           releaseDate: year,
         };
     
-        fetch("http://localhost:8001/Books", {
+        fetch("https://regal-busy-beaufort.glitch.me/Books",{
           method: "POST",
           headers: {
             "Content-Type": "application/json",

@@ -1,23 +1,22 @@
-import React,{ useState} from 'react'
+import React, { useState } from "react";
 
-const Review = ({view, onDelete}) => {
-
-  const { title, summary, author} = view;
-  const[isRead, setMarkRead] = useState()
+const Review = ({ view, onDelete }) => {
+  const { title, summary, author } = view;
+  const [isRead, setMarkRead] = useState();
 
   const MarkIsRead = () => {
-    setMarkRead((isRead) =>!isRead);
+    setMarkRead((isRead) => !isRead);
   };
 
   function deleteReview() {
-    fetch(`http://localhost:8001/Books/${view.id}`, {
-      method: 'DELETE',
+    fetch(`https://regal-busy-beaufort.glitch.me/Books/${view.id}`, {
+      method: "DELETE",
       headers: {
         "Content-Type": "application/json",
       },
     })
-      .then(r => r.json())
-      .then(() => onDelete(view))
+      .then((r) => r.json())
+      .then(() => onDelete(view));
   }
 
   return (
@@ -28,11 +27,15 @@ const Review = ({view, onDelete}) => {
         <strong>- By {author}</strong>
       </p>
       <div className="button-container">
-      <button className="btn"onClick={MarkIsRead}>Mark as {isRead? "Unread" : "Read"}</button>
-      <button className="delete-btn" onClick={deleteReview} >Delete</button>
+        <button className="btn" onClick={MarkIsRead}>
+          Mark as {isRead ? "Unread" : "Read"}
+        </button>
+        <button className="delete-btn" onClick={deleteReview}>
+          Delete
+        </button>
       </div>
     </div>
-  )
-}
+  );
+};
 
-export default Review
+export default Review;
